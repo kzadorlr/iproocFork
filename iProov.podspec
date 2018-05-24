@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.iproov.com/'
   s.license          = { :type => 'MIT', :file => 'licenses/3rdparty.md' }
   s.author           = { 'Jonathan Ellis' => 'jonathan.ellis@iproov.com' }
-  s.source           = { :git => 'https://github.com/iProov/iproov-ios-pod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/kzadorlr/iproocFork.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
